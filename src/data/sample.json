@@ -1,0 +1,213 @@
+{
+  "basics": {
+    "name": "Anup Narvekar",
+    "title": "Software engineer",
+    "summary": "I build performant and scalable backend architectures.",
+    "email": "anupnarvekar.7cf@gmail.com",
+    "website": "https://johndoe.com",
+    "location": "Goa, India",
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "AnupNarvekar",
+        "url": "https://github.com/AnupNarvekar"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "anup-narvekar",
+        "url": "linkedin.com/in/anup-narvekar"
+      },
+      {
+        "network": "X",
+        "username": "anup_narvekar",
+        "url": "https://x.com/anup_narvekar"
+      }
+    ],
+    "resumeUrl": "/resume.pdf"
+  },
+  "about": {
+    "bio": "I'm a software engineer with ~3 years of experience in Backend dev. I specialize in crafting high-performance RESTful APIs using Node.js. Skilled in SQL, MongoDB, AWS, Redis and Docker with a strong eagerness to learn, grow, and adapt. When I'm not coding, you can find me gamming or sleeping :)",
+    "photo": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  "skills": [
+    {
+      "name": "Backend Dev",
+      "level": "Expert",
+      "keywords": [
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "Redis",
+        "AWS",
+        "TypeScript",
+        "SQL",
+        "Python",
+        "Java"
+      ]
+    },
+    {
+      "name": "Frontend Dev",
+      "level": "Intermediate",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Vue"
+      ]
+    },
+    {
+      "name": "UI/UX Design",
+      "level": "Expert",
+      "keywords": [
+        "Figma",
+        "User Research",
+        "Wireframing",
+        "Photoshop"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "level": "Intermediate",
+      "keywords": [
+        "Git",
+        "GitHub Actions",
+        "Docker",
+        "AWS",
+        "NginX",
+        "K8s"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Order Processing System",
+      "description": "A order processing system built with Node.js, Express, MongoDB, Redis, and AWS for asynchronously processing orders",
+      "technologies": [
+        "Node.js",
+        "Express.js",
+        "MongoDB Atlas",
+        "AWS SQS",
+        "AWS SES",
+        "redis",
+        "JWT",
+        "git",
+        "docker"
+      ],
+      "url": "https://github.com/AnupNarvekar/XhipmentAssignment",
+      "repo": "https://github.com/AnupNarvekar/XhipmentAssignment",
+      "image": "https://images.pexels.com/photos/3785927/pexels-photo-3785927.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "name": "Contest Participation System (Backend)",
+      "description": "An application that allows users to participate in timed contests, answer questions, compete on a leaderboard and win prizes!.",
+      "technologies": [
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "Mongoose",
+        "redis",
+        "JWT",
+        "git",
+        "docker",
+        "express rate limit"
+      ],
+      "url": "https://github.com/AnupNarvekar/TenTwentyAssignment",
+      "repo": "https://github.com/AnupNarvekar/TenTwentyAssignment",
+      "image": "https://images.pexels.com/photos/5428830/pexels-photo-5428830.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "name": "PRD Automation",
+      "description": "An AI pipeline to covert raw conversation between a client and product manager into a well defined product requirement ducuments",
+      "technologies": [
+        "Python",
+        "CrewAI",
+        "DeepEval",
+        "LLMs",
+        "Git",
+        "Docker"
+      ],
+      "image": "https://images.pexels.com/photos/8850706/pexels-photo-8850706.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "name": "Diabetes Mellitus Prediction System (Research paper)",
+      "description": "A machine learning model used to classify users as diabetic or non-diabetic",
+      "technologies": [
+        "Python",
+        "K Means algorithm",
+        "Enhanced K-Strange Points Clustering Algorithm",
+        "Seaborl",
+        "Matplot",
+        "Pandas",
+        "NumPy",
+        "sklearn"
+      ],
+      "url": "https://ieeexplore.ieee.org/document/9767143",
+      "repo": "https://ieeexplore.ieee.org/document/9767143",
+      "image": "https://images.pexels.com/photos/6942015/pexels-photo-6942015.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Kilowott",
+      "position": "MERN Stack Consultant (Contract)",
+      "website": "https://kilowott.com/",
+      "startDate": "2025-01",
+      "endDate": "2025-02",
+      "summary": "Build react/react native apps",
+      "highlights": [
+        "Gained hands-on experience building apps with React and React Native.",
+        "Fixed production bugs in the Skillbuilder.io project, ensuring stability and performance."
+      ]
+    },
+    {
+      "company": "Future Forward Foundry",
+      "position": "Founding Engineer (Full stack)",
+      "startDate": "2024-07",
+      "endDate": "2024-08",
+      "summary": "Built LLM powered apps",
+      "highlights": [
+        "Built AI-driven pipelines with CrewAI to automate workflows, increasing productivity by 80%.",
+        "Developed and optimized AI agents for creating Product Requirement Documents (PRDs) from transcripts, reducing manual effort by 90%.",
+        "Utilised open-source LLMs (with Ollama, Aider, Continue.dev, etc) to accelerate development cycles."
+      ]
+    },
+    {
+      "company": "Grassdoor Logistics Technologies",
+      "position": "Junior Software Engineer (Backend)",
+      "website": "https://www.grassdoorlogitech.com/",
+      "startDate": "2021-10",
+      "endDate": "2023-11",
+      "summary": "Built REST APIs",
+      "highlights": [
+        "Designed and implemented high-performance REST APIs using Node.js and Express.js, achieving a 30% improvement in system response times.",
+        "Optimized slow Legacy SQL queries, improving performance by 30%.",
+        "Utilized Redis caching, pagination and Docker to improve backend efficiency and scalability."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Padre Conceicao College of Engineering",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2017-06",
+      "endDate": "2021-08",
+      "courses": [
+        "Data Structures and Algorithms",
+        "Database Systems",
+        "Operating Systems",
+        "Digital signal processing",
+        "Image processing",
+        "Cryptography",
+        "Web Development",
+        "Logic design"
+      ]
+    }
+  ],
+  "contact": {
+    "email": "anupnarvekar.7cf@gmail.com",
+    "message": "I'm always open to new opportunities and collaborations. Feel free to reach out if you'd like to connect!"
+  }
+}
