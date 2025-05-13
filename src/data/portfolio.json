@@ -95,7 +95,6 @@
         "git",
         "docker"
       ],
-      "url": "https://github.com/AnupNarvekar/XhipmentAssignment",
       "repo": "https://github.com/AnupNarvekar/XhipmentAssignment",
       "image": "https://images.pexels.com/photos/3785927/pexels-photo-3785927.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
@@ -113,7 +112,6 @@
         "docker",
         "express rate limit"
       ],
-      "url": "https://github.com/AnupNarvekar/TenTwentyAssignment",
       "repo": "https://github.com/AnupNarvekar/TenTwentyAssignment",
       "image": "https://images.pexels.com/photos/5428830/pexels-photo-5428830.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
