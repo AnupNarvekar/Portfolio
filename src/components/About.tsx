@@ -14,7 +14,7 @@ const About: React.FC = () => {
           <div className="w-full md:w-1/3 mb-8 md:mb-0">
             <div className="relative rounded-lg overflow-hidden shadow-lg transform transition-transform hover:scale-105">
               <img
-                src={"/IMG_20250217_154359.jpg"}
+                src={"IMG_20250217_154359.jpg"}
                 alt="Profile"
                 className="w-full h-auto object-cover"
               />
