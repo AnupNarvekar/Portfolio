@@ -1,34 +1,35 @@
 import React, { useState } from 'react';
 import { Mail, Send } from 'lucide-react';
 import portfolioData from '../data/portfolio.json';
+import ResumeButton from './ResumeButton';
 
 const Contact: React.FC = () => {
   const { email, message } = portfolioData.contact;
-  
+
   const [formData, setFormData] = useState({
     name: '',
     email: '',
     message: ''
   });
-  
+
   const [formStatus, setFormStatus] = useState<'idle' | 'submitting' | 'success' | 'error'>('idle');
-  
+
   const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => {
     const { name, value } = e.target;
     setFormData(prev => ({ ...prev, [name]: value }));
   };
-  
+
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     setFormStatus('submitting');
-    
+
     // Simulate form submission
     setTimeout(() => {
       // For a real implementation, you would send the form data to a server
       console.log('Form submitted:', formData);
       setFormStatus('success');
       setFormData({ name: '', email: '', message: '' });
-      
+
       // Reset status after some time
       setTimeout(() => setFormStatus('idle'), 5000);
     }, 1500);
@@ -43,10 +44,10 @@ const Contact: React.FC = () => {
         <p className="text-center text-gray-700 dark:text-gray-300 mb-12 max-w-2xl mx-auto">
           {message}
         </p>
-        
+
         <div className="max-w-lg mx-auto">
           <div className="flex items-center justify-center mb-8">
-            <a 
+            <a
               href={`mailto:${email}`}
               className="inline-flex items-center text-blue-600 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-300 transition-colors"
             >
@@ -54,7 +55,7 @@ const Contact: React.FC = () => {
               <span>{email}</span>
             </a>
           </div>
-          
+
           {/* <form onSubmit={handleSubmit} className="space-y-6">
             <div>
               <label htmlFor="name" className="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-1">
@@ -128,6 +129,9 @@ const Contact: React.FC = () => {
               </div>
             )}
           </form> */}
+        </div>
+        <div className="text-center">
+          <ResumeButton />
         </div>
       </div>
     </section>
