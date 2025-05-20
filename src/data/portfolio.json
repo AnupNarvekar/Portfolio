@@ -23,7 +23,7 @@
         "url": "https://x.com/anup_narvekar"
       }
     ],
-    "resumeUrl": "/resume.pdf"
+    "resumeUrl": "resume.pdf"
   },
   "about": {
     "bio": "I'm a software engineer with ~3 years of experience in Backend dev. I specialize in crafting high-performance RESTful APIs using Node.js. Skilled in SQL, MongoDB, AWS, Redis and Docker with a strong eagerness to learn, grow, and adapt. When I'm not coding, you can find me gamming or sleeping :)",
