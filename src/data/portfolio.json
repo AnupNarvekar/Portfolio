@@ -26,7 +26,7 @@
     "resumeUrl": "resume.pdf"
   },
   "about": {
-    "bio": "I'm a software engineer with ~3 years of experience in Backend dev. I specialize in crafting high-performance RESTful APIs using Node.js. Skilled in SQL, MongoDB, AWS, Redis and Docker with a strong eagerness to learn, grow, and adapt. When I'm not coding, you can find me gamming or sleeping :)",
+    "bio": "I'm a software engineer with 4 years of experience in Backend dev. I specialize in crafting high-performance RESTful APIs using Node.js & Python. Skilled in SQL, MongoDB, AWS, Redis and Docker with a strong eagerness to learn, grow, and adapt. When I'm not coding, you can find me gamming or sleeping :)",
     "photo": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=600"
   },
   "skills": [
@@ -147,7 +147,7 @@
     },
     {
       "company": "Future Forward Foundry",
-      "position": "Founding Engineer (Full stack)",
+      "position": "Founding Engineer - Full stack (Contract)",
       "startDate": "2024-07",
       "endDate": "2024-08",
       "summary": "Built LLM powered apps",
