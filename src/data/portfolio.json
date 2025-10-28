@@ -134,12 +134,21 @@
   ],
   "experience": [
     {
+      "company": "Turing (via Joy Infotech)",
+      "position": "Python + MERN Stack Consultant) (Contract)",
+      "website": "https://turing.com/",
+      "startDate": "2025-09",
+      "endDate": "2025-10",
+      "summary": "Onboarded for a Python + MERN stack based project; project later cancelled pre-start due to client-side changes.",
+      "highlights": []
+    },
+    {
       "company": "Kilowott",
       "position": "MERN Stack Consultant (Contract)",
       "website": "https://kilowott.com/",
       "startDate": "2025-01",
       "endDate": "2025-02",
-      "summary": "Build react/react native apps",
+      "summary": "Build react & react native apps",
       "highlights": [
         "Gained hands-on experience building apps with React and React Native.",
         "Fixed production bugs in the Skillbuilder.io project, ensuring stability and performance."
