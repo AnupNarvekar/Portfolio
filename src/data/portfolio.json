@@ -99,21 +99,13 @@
       "image": "https://images.pexels.com/photos/3785927/pexels-photo-3785927.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
-      "name": "Contest Participation System (Backend)",
-      "description": "An application that allows users to participate in timed contests, answer questions, compete on a leaderboard and win prizes!.",
+      "name": "CRON-parser",
+      "description": "A CLI application that parses a standard cron string (minute, hour, day of month, month, and day of week + command) and expands each field to show the times at which it runs",
       "technologies": [
-        "Node.js",
-        "Express.js",
-        "MongoDB",
-        "Mongoose",
-        "redis",
-        "JWT",
-        "git",
-        "docker",
-        "express rate limit"
+        "Node.js"
       ],
-      "repo": "https://github.com/AnupNarvekar/TenTwentyAssignment",
-      "image": "https://images.pexels.com/photos/5428830/pexels-photo-5428830.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      "repo": "https://github.com/AnupNarvekar/CRON-parser",
+      "image": "https://images.pexels.com/photos/23474/pexels-photo.jpg"
     },
     {
       "name": "Diabetes Mellitus Prediction System (Research paper)",
