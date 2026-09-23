@@ -126,13 +126,26 @@
   ],
   "experience": [
     {
+      "company": "Geekyants",
+      "position": "Senior Software Engineer 1",
+      "website": "https://geekyants.com/",
+      "startDate": "2026-02",
+      "endDate": "Present",
+      "summary": "Worked on backend projects - NestJS, PostgreSQL, AWS, etc",
+      "highlights": [ "Worked on Nikhil Kamat's WTFund's internal project called 'Kurate' - a content curating platform.",
+        "Designed the entire database from ground up, end to end",
+        "Worked on Nomiss - a sport matches' highlights aggregation platform. Created entire database + backend from scratch with NestJS + PostgreSQL",
+        "Got really good exposure on leveraging AI tools to accelerate development without compromizing quality - not vibe coding"
+      ]
+    },
+    {
       "company": "Turing (via Joy Infotech)",
-      "position": "Python + MERN Stack Consultant) (Contract)",
+      "position": "Python Consultant (Contract)",
       "website": "https://turing.com/",
       "startDate": "2025-09",
-      "endDate": "2025-10",
-      "summary": "Onboarded for a Python + MERN stack based project; project later cancelled pre-start due to client-side changes.",
-      "highlights": []
+      "endDate": "2025-11",
+      "summary": "Assisted Turing in creating datasets for improving LLMs' performance through RLHF.",
+      "highlights": [Gained valuable insights on how to improve quality of LLM's response]
     },
     {
       "company": "Kilowott",
