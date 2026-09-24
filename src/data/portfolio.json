@@ -26,7 +26,7 @@
     "resumeUrl": "resume.pdf"
   },
   "about": {
-    "bio": "I'm a software engineer with 4 years of experience in Backend dev. I specialize in crafting high-performance RESTful APIs using Node.js & Python. Skilled in SQL, MongoDB, AWS, Redis and Docker with a strong eagerness to learn, grow, and adapt. When I'm not coding, you can find me either gamming or sleeping :)",
+    "bio": "I'm a software engineer with 4 years of experience in Backend dev. I specialize in crafting high-performance RESTful APIs using Node.js & Python. Skilled in SQL, MongoDB, AWS, Redis and Docker with a strong eagerness to learn, grow, and adapt. When I'm not coding, you can find me either gaming or sleeping :)",
     "photo": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=600"
   },
   "skills": [
@@ -83,7 +83,7 @@
   "projects": [
     {
       "name": "Order Processing System",
-      "description": "A order processing system built with Node.js, Express, MongoDB, Redis, and AWS for asynchronously processing orders",
+      "description": "An order processing system built with Node.js, Express, MongoDB, Redis, and AWS for asynchronously processing orders",
       "technologies": [
         "Node.js",
         "Express.js",
@@ -91,7 +91,6 @@
         "AWS SQS",
         "AWS SES",
         "redis",
-        "JWT",
         "git",
         "docker"
       ],
@@ -130,11 +129,12 @@
       "position": "Senior Software Engineer 1",
       "website": "https://geekyants.com/",
       "startDate": "2026-02",
-      "endDate": "Persent",
+      "endDate": "Present",
       "summary": "Worked on backend projects - NestJS, PostgreSQL, AWS, etc",
-      "highlights": [ "Worked on Nikhil Kamat's WTFund's internal project called 'Kurate' - a content curating platform. Designed the entire database from ground up, end to end",
+      "highlights": [
+        "Worked on Nikhil Kamat's WTFund's internal project called 'Kurate' - a content curating platform. Designed the entire database from ground up, end to end",
         "Worked on Nomiss - a sport matches' highlights aggregation platform. Created entire database + backend from scratch with NestJS + PostgreSQL",
-        "Got really good exposure on leveraging AI tools to accelerate development without compromizing quality - not vibe coding, but engineering"
+        "Got really good exposure on leveraging AI tools to accelerate development without compromising quality - not vibe coding, but engineering"
       ]
     },
     {
@@ -144,7 +144,9 @@
       "startDate": "2025-09",
       "endDate": "2025-11",
       "summary": "Assisted Turing in creating datasets for improving LLMs' performance through RLHF.",
-      "highlights": [ "Gained valuable insights on improving LLM's response quality" ]
+      "highlights": [
+        "Gained valuable insights on improving LLM's response quality"
+      ]
     },
     {
       "company": "Kilowott",
@@ -187,7 +189,7 @@
   "education": [
     {
       "institution": "Padre Conceicao College of Engineering",
-      "area": "Computer Science",
+      "area": "Computer Engineering",
       "studyType": "Bachelor",
       "startDate": "2017-06",
       "endDate": "2021-08",
